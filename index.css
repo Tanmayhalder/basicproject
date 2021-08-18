@@ -1,0 +1,21 @@
+body
+{
+    margin-top: 0;
+    margin: 0;
+}
+
+.navbar
+{
+    background-color: aquamarine;
+    display: flex;
+}
+
+#navList
+{
+    list-style-type: none;
+    display:flex;
+}
+
+#cont{
+    background-color: aquamarine;
+}
